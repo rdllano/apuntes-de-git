@@ -8,4 +8,10 @@ Muestra el historial con el formato que indicamos.
 git log -n:Cambiamos la n por cualquier numeri entero, por ejemplo: git log -2 nos mostrara los 2 commit mas recientes.
 git log --after="2016-04-07 00:00:00":Muestra los commits realizados despues de la fecha
 
+<<<<<<< HEAD
 `git log --`
+=======
+
+`git log --oneline`
+Este comando nos muestra el historial en una sola linea por commit.
+>>>>>>> universo3

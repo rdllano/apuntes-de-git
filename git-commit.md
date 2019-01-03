@@ -4,3 +4,7 @@ Al final terminaras con una sola confirmacion - la segunda confirmacion reemplaz
 
 
 Si no hemos hecho cambios desde la ultima confirmacion entonces la instantanea lucira exactamente igual y lo unico que cambiaremos sera el mensaje del commit.
+
+
+## git commit -a -m "mensaje del commit"
+Con este comando podemos saltar el area de preparacion
